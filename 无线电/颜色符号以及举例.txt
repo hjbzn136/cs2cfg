@@ -1,0 +1,36 @@
+playerchatwheel CW.IFixBomb "从武器箱中获得了：MAC-10  |  坐牢"
+playerchatwheel CW.IFixBomb "从武器箱中获得了：P2000 | 升天"
+playerchatwheel CW.IFixBomb "从武器箱中获得了：MAG-7 | 先见之明"
+playerchatwheel CW.IFixBomb "从武器箱中获得了：双持贝瑞塔（★ StatTrak™） | 瓜瓜"
+playerchatwheel CW.IFixBomb "从武器箱中获得了：蝴蝶刀（★） | 伽马多普勒"
+
+playerchatwheel CW.IFixBomb "通过交易获得了：M4A4 | 咆哮"
+playerchatwheel CW.IFixBomb "通过交易获得了：AWP（纪念品） | 巨龙传说"
+playerchatwheel CW.IFixBomb "从汰换合同中获得了：AWP | 巨龙传说"
+
+
+playerchatwheel CW.IFixBomb "VAC检测错误，已被服务器永久封禁"
+playerchatwheel CW.IFixBomb "【5E对战平台】本场比赛存在作弊玩家，为保证比赛公平性，比赛将在30秒后结束！"
+playerchatwheel CW.IFixBomb "【完美平台】Player 你的名字 has been kicked out and banned permanently because of cheating"
+
+playerchatwheel CW.IFixBomb "【完美平台】按下F10+Enter即可查看完美战力"
+
+
+playerchatwheel CW.IFixBomb "从汰换合同中获得了：AK47 | 火麒麟😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 😀 寒噤不知年 已被CS:GO服务器永久封禁"
+
+【】蓝色
+【
+】淡蓝色（淡蓝色现在无法使用）
+白色
+灰色
+绿色
+淡绿色
+粉色（紫色没有）
+红色
+淡红色
+金色
+阵营颜色（你在哪个阵营就变什么颜色）
+
+【参考文献】
+自定义无线电 https://www.rushb.net/csgo-course/15550.html
+假开箱 https://www.rushb.net/csgo-course/15552.html
