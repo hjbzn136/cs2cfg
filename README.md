@@ -5,3 +5,8 @@ Some Counter-Strike 2's cfgs
 
 cfg文件或文件夹都要放在该路径下Counter-Strike Global Offensive\game\csgo\cfg  
 还有一些需要结合自动执行指令的同意在该路径下的autoexec.cfg来使用
+
+指令模板部分来源于网上  
+[自建练习房指令](command(mess)/道具练习指南.docx)来自[苏伊陌Emo](https://space.bilibili.com/27063255)  
+[轮盘模板](knife/gen4/knifewheel)来自[T_tucao](https://space.bilibili.com/441892490)
+发刀alias定义部分找不到作者了
