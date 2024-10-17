@@ -1,4 +1,7 @@
 # cs2cfg
 一些CS2的cfg文件  
 Some Counter-Strike 2's cfgs  
-退游了，把一些自己用的cfg上传上来保存
+退游了，把一些自己用的cfg上传上来保存  
+
+cfg文件或文件夹都要放在该路径下Counter-Strike Global Offensive\game\csgo\cfg  
+还有一些需要结合自动执行指令的同意在该路径下的autoexec.cfg来使用
