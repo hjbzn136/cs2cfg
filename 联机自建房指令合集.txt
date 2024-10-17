@@ -1,0 +1,33 @@
+以官方图dust2地图为例，先让CS2服务器运行dust2地图，注意将启动项里的 +game_mode 和 +game_type 设置成这张创意工坊地图的游戏模式
+
+注：
+
+CS2的游戏模式
+
+休闲模式：game_type 0 game_mode 0
+
+竞技模式：game_type 0 game_mode 1
+
+搭档模式：game_type 0 game_mode 2
+
+死亡竞赛：game_type 1 game_mode 2
+
+自定义模式：game_type 3 game_mode 0
+
+ps.
+● 死鬥模式輸入mp_warmup_end可能會造成所有玩家都被黏在原地的BUG
+● 競技模式如果無法新增BOT或是BOT不會移動請輸入bot_quota_mode normal
+● 想停用伺服器自動踢除掛機與殺隊友玩家功能請輸入mp_autokick 0
+
+mp_restartgame 1         //重置遊戲
+changelevel "地圖名稱"    //變更地圖
+mp_autokick 0            //關閉自動踢出功能
+
+sv_cheats 1;mp_drop_knife_enable 1;mp_autokick 0
+
+kg;kg;kg;kg;kg;kg;kg;kg;kg;kg;k3;k3;k3;k3;k3;k3;k3;k3;k3;k3;
+
+sv_enablebunnyhopping 1;sv_autobunnyhopping 1;sv_full_alltalk 1;sv_regeneration_force_on 1;
+
+
+host_workshop_map

@@ -1,0 +1,36 @@
+CSGO-mHxFr-39vHp-KaHXT-YOsdj-SqybE
+CSGO-FLVFF-GhrkS-6JrZk-aF85O-AOunC
+CSGO-2ucbb-QsmW2-rXNir-BAeHm-NteKP
+viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3; cl_usenewbob false;
+
+bind z "slot10;+lookatweapon;-lookatweapon";bind x "slot8;+lookatweapon;-lookatweapon";bind c "slot7;+lookatweapon;-lookatweapon";bind 4 "slot6;+lookatweapon;-lookatweapon";
+
+mp_respawn_on_death_ct 1#秒复活
+mp_respawn_on_death_t 1
+mp_freezetime 1
+mp_maxmoney 999999
+mp_afterroundmoney 999999
+mp_buytime 9999
+mp_death_drop_gun 1
+
+https://littleskin.cn/raw/420281
+
+weapon_debug_spread_show 1
+cl_showimpact 1
+
+cl_crosshairalpha 255;cl_crosshaircolor 2;cl_crosshairgap -2.1;cl_crosshairsize 1.5;cl_crosshairthickness 0.4;cl_crosshaircolor_b 144;cl_crosshaircolor_g 0;cl_crosshaircolor_r 1
+
+357487
+
+
+
+sv_gravity 150            800
+ent_create chicken
+ent_fire chicken color "0 0 255"
+sv_bounce 5                0
+ragdoll_gravity_scale -10000
+
+
+sv_cheats 1;sv_enablebunnyhopping 1;sv_autobunnyhoping 1;mp——autokick 0;mp_autoteambalance false;sv_gravity 150;ragdoll_gravity_scale -1;
+ent_fire !picker changesubclass weapon_bizon;
+ent_fire !picker setscale 10;

@@ -1,0 +1,4 @@
+//在Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg更改
+//轮盘发刀（使用O，P键）
+unbind o;unbind p;
+alias 【改一个你喜欢的指令刀控制台输入】 "exec knifewheel/mainwheel;echo;echo;echo P打开轮盘，O关闭轮盘，E选择echo;echo;"

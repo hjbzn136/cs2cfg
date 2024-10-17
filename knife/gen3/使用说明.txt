@@ -1,0 +1,5 @@
+把整个game文件夹拖到cs的文件夹里面去，并在game/csgo/cfg/autoexec.cfg里添加一行
+
+alias 0 "exec knife/dao.cfg"
+
+进游戏控制台输入0就可以使用，菜单键也是输入0。

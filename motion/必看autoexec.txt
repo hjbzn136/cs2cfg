@@ -1,0 +1,24 @@
+//注意，将一下你想要的功能部分复制到cs2文件夹/game/csgo/cfg里的autoexec.cfg文件中（没有该文件就创建一个，steam里右键cs/管理/浏览本地文件），motion文件夹也需要整个复制到该路径中，把 按键 改成你要绑定的按键，然后把前面的双斜杠注释符 // 删掉
+//如果cs更新导致cfg不能用只要把autoexec.cfg里添加的指令删掉就行，motion文件夹也可以整个删掉
+
+
+
+//一键跳投
+alias jt "echo "motion/jumpthrow" | exec;";
+//bind 按键 jt;
+
+
+//一键大跳
+alias +cj "echo "motion/crouchjump" | exec;";
+alias -cj "echo "motion/crouchjumpm" | exec;";
+//bind 按键 +cj;
+
+
+//下滚轮跳跃（增强连跳成功率，上滚轮改成mwheelup）
+alias +bh "echo "motion/bhop" | exec;";
+alias -bh "echo "motion/bhopm" | exec;";
+//bind mwheeldown +bh;
+
+
+//一键设置练习房
+//bind 按键 "sv_cheats 1;ammo_grenade_limit_total 6;bot_kick;sv_infinite_ammo 1;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 9999;mp_restartgame 1;sv_grenade_trajectory 1;mp_maxmoney 99999;mp_respawn_on_death_t 1;mp_respawnwavetime_t 0;mp_respawn_on_death_ct 1;mp_respawnwavetime_ct 0;mp_autoteambalance 0;mp_limitteams 0;sv_grenade_trajectory_prac_pipreview 1;sv_grenade_trajectory_prac_trailtime 4"
