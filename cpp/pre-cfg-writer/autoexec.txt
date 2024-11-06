@@ -1,0 +1,6 @@
+//功能名称（这是一个示例）
+alias +jp +jump;
+alias -jp -jump;
+alias [command] "kill";
+alias [command1] "+duck";
+bind [key] "+jump";
