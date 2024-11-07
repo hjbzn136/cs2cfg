@@ -34,7 +34,15 @@
 	"Talon Knife"         "锯齿爪刀"
 	"Kukri Knife"         "廓尔喀刀"
 
-	"backMainWheel"             "任意名字"
 	"NextPage"             "下一页"
 	"LastPage"             "上一页"
+
+	"LastNade"			"重丢投掷物"
+	"ClearSmoke"		"清除烟雾弹"
+	"SavePos"			"保存当前点位"
+	"LoadPos"			"传送至保存点位"
+	"Fly"				"飞行"
+	"BotState"			"bot停止/行动"
+	"BotPlace"			"放置bot"
+	"BotAdd"			"增加bot"
 }
