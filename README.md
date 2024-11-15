@@ -10,5 +10,5 @@ cfg文件或文件夹都要放在该路径下Counter-Strike Global Offensive\gam
 [自建练习房指令](command(mess)/道具练习指南.docx)来自[苏伊陌Emo](https://space.bilibili.com/27063255)  
 [轮盘模板](knife/gen4/knifewheel)来自[T_tucao](https://space.bilibili.com/441892490)  
 [无线电](无线电)来自[不是鸿儒是白丁](https://space.bilibili.com/325103315)  
-[Fusion](Fusion)里ent的指令参考[-Cap1taL-(b站有号)](https://github.com/eLecCap1taL/Horizon)这位大佬的CSRM项目
+[Fusion](Fusion)里ent的指令参考[-Cap1taL-(b站有号)](https://github.com/eLecCap1taL/Horizon)这位大佬的CSRM项目  
 发刀alias定义部分找不到作者了  
